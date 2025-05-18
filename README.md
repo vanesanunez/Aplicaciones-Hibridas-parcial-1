@@ -16,7 +16,7 @@ Endpoints disponibles:
 /api/users Usuarios registrados en la app.
 
 ******************************
-Dependencias 
+Dependencias: 
 npm i bcrypt
 npm i dotenv
 npm i express
